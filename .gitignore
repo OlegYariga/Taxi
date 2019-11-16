@@ -1,0 +1,7 @@
+/.vscode
+*.pyc
+/db.sqlite3
+twillio.py
+/logs/*
+.env
+/.idea/*
